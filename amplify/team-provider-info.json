@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-residentialapp-dev-121816-authRole",
+      "UnauthRoleArn": "arn:aws:iam::807471455482:role/amplify-residentialapp-dev-121816-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::807471455482:role/amplify-residentialapp-dev-121816-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-residentialapp-dev-121816-deployment",
+      "UnauthRoleName": "amplify-residentialapp-dev-121816-unauthRole",
+      "StackName": "amplify-residentialapp-dev-121816",
+      "StackId": "arn:aws:cloudformation:us-east-1:807471455482:stack/amplify-residentialapp-dev-121816/f7fb0470-79e8-11ed-8a20-0a45be6cfca1",
+      "AmplifyAppId": "d1vib6k340f5pv"
+    },
+    "categories": {
+      "auth": {
+        "residentialappee6411e2": {}
+      },
+      "api": {
+        "residentialapp": {}
+      }
+    }
+  }
+}
